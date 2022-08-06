@@ -2,4 +2,4 @@
 
 _This shoe store site is made purily using HTML, CSS and JS._
 
-![](/images/shoestore.png)
+![Shoe-Store](/images/shoestore.png)
